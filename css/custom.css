@@ -242,14 +242,14 @@
   
   /* 鼠标图标 */
   body {
-    cursor: url('/img/'), auto;
+    cursor: url('/img/x1.cur'), auto;
   }
   a,
   [type='button']:not(:disabled),
   [type='reset']:not(:disabled),
   [type='submit']:not(:disabled),
   button:not(:disabled) {
-    cursor: url('/img/'), auto !important;
+    cursor: url('/img/x2.cur'), auto !important;
   }
   /* md网站下划线 */
   #article-container a:hover {
