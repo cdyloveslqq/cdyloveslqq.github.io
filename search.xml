@@ -34,30 +34,8 @@
     
     <entry>
       <title>bangumis</title>
-      <link href="/bangumis/index-1.html"/>
-      <url>/bangumis/index-1.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>bangumis</title>
       <link href="/bangumis/index.html"/>
       <url>/bangumis/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index-1.html"/>
-      <url>/link/index-1.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -80,6 +58,28 @@
       <title>link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index-1.html"/>
+      <url>/link/index-1.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>bangumis</title>
+      <link href="/bangumis/index-1.html"/>
+      <url>/bangumis/index-1.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
