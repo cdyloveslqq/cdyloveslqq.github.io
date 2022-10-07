@@ -56,8 +56,8 @@
     
     <entry>
       <title>link</title>
-      <link href="/link/index-1.html"/>
-      <url>/link/index-1.html</url>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -67,8 +67,8 @@
     
     <entry>
       <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <link href="/link/index-1.html"/>
+      <url>/link/index-1.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
